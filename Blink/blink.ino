@@ -1,4 +1,3 @@
-#include <math.h>
 #define LED_1 12
 #define LED_2 11
 #define LED_3 10
